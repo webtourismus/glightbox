@@ -1,0 +1,7 @@
+{
+    "name": "webtourismus/glightbox",
+    "description": "Mirror of https://www.npmjs.com/package/glightbox as drupal-library",
+    "license": "MIT",
+    "type": "drupal-library",
+    "homepage": "https://github.com/biati-digital/glightbox"
+}
